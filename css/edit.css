@@ -1,0 +1,6 @@
+.type-camera .post-title .inline, .type-camera .post-title .view {
+display: none;
+}
+.type-camera .column-slideshow img {
+max-height: 50px;
+}

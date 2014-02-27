@@ -1,0 +1,16 @@
+/**ADMIN STYLES**/
+#adminmenu #menu-posts-camera .wp-menu-image {
+width: 40px;
+}
+#adminmenu #menu-posts-camera .wp-menu-image img {
+padding-top: 4px;
+}
+#adminmenu #menu-posts-camera .wp-menu-name {
+line-height: normal;
+padding: 8px 0px;
+margin-left: 40px;
+}
+#icon-edit.icon32-posts-camera {
+background-image: url(../img/icon.png);
+background-position: center center;
+}
