@@ -1,6 +1,10 @@
 <?php
 /*
+<<<<<<< HEAD
 Plugin Name: Camera Slider
+=======
+Plugin Name: Camera
+>>>>>>> 162fdd022d55d4162200cbbc03fd78fb2518621e
 Plugin URI: https://github.com/joko-wandiro/wp-camera
 Description: jQuery slideshow with many effects, transitions, easy to customize, using canvas and mobile ready, based on jQuery 1.4+. You can add it into post / page / widget Wordpress.
 Version: 1.0.0
@@ -22,7 +26,10 @@ define('PHC_CAMERA_THEME_URL', PHC_CAMERA_PATH_URL . "theme/");
 define('PHC_CAMERA_PATH_URL_CSS', PHC_CAMERA_PATH_URL . "css/");
 define('PHC_CAMERA_PATH_URL_JS', PHC_CAMERA_PATH_URL . "js/");
 define('PHC_CAMERA_IMG_URL', PHC_CAMERA_PATH_URL . "img/");
+<<<<<<< HEAD
 define('PHC_CAMERA_IMAGES_BANNER', PHC_CAMERA_IMG_URL . "banner/");
+=======
+>>>>>>> 162fdd022d55d4162200cbbc03fd78fb2518621e
 define('PHC_CAMERA_IMG_DOCUMENTATION_BOW_TO_USE_URL', PHC_CAMERA_PATH_URL . 
 "img/documentation/how-to-use/");
 define('PHC_CAMERA_IMG_DOCUMENTATION_THEMES_URL', PHC_CAMERA_PATH_URL . 
