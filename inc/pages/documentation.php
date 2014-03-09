@@ -16,7 +16,6 @@ function phc_camera_documentation_page(){
 	PHC_CAMERA_PATH_URL . "js/documentation/documentation.js", array("jquery-ui-tabs"));
 ?>
 	<div class="wrap" id="<?php echo PHC_CAMERA_IDENTIFIER; ?>">
-<<<<<<< HEAD
 	<!-- Start Banner -->
 	<ul id="banners">
 	<li><a href="#url"><img src="<?php echo PHC_CAMERA_IMAGES_BANNER . "banner_donation.png"; ?>" /></a></li>
@@ -25,9 +24,6 @@ function phc_camera_documentation_page(){
 	</ul>
 	<!-- End Banner -->
 	
-	<?php screen_icon('page'); ?>
-	<h2><?php _e("Documentation", PHC_CAMERA_IDENTIFIER); ?></h2>
-=======
 	<?php screen_icon('page'); ?>
 	<h2><?php _e("Documentation", PHC_CAMERA_IDENTIFIER); ?></h2>
 	
