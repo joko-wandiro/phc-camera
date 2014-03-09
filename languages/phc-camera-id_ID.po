@@ -1,0 +1,519 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Camera\n"
+"POT-Creation-Date: 2014-02-27 18:03+0700\n"
+"PO-Revision-Date: 2014-02-27 18:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/manage_columns.php:8
+msgid "Title"
+msgstr "Judul"
+
+#: .././inc/manage_columns.php:9
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: .././inc/manage_columns.php:10
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: .././inc/manage_columns.php:11
+msgid "Author"
+msgstr "Penulis"
+
+#: .././inc/manage_columns.php:12
+msgid "Date"
+msgstr "Tanggal"
+
+#: .././inc/meta_boxes.php:51
+msgid "New Image"
+msgstr "Gambar Baru"
+
+#: .././inc/meta_boxes.php:56 .././inc/meta_boxes.php:102
+msgid "Delete"
+msgstr "Hapus"
+
+#: .././inc/meta_boxes.php:58 .././inc/meta_boxes.php:104
+msgid "Remove"
+msgstr "Hapus"
+
+#: .././inc/meta_boxes.php:61 .././inc/meta_boxes.php:107
+msgid "Image"
+msgstr "Gambar"
+
+#: .././inc/meta_boxes.php:70 .././inc/meta_boxes.php:128
+msgid "Select Image"
+msgstr "Pilih Gambar"
+
+#: .././inc/meta_boxes.php:74 .././inc/meta_boxes.php:132
+msgid "Caption Text / HTML / Videos"
+msgstr "Judul berupa Teks / HTML / Video"
+
+#: .././inc/meta_boxes.php:78 .././inc/meta_boxes.php:136
+msgid "Caption Effects"
+msgstr "Efek Judul"
+
+#: .././inc/meta_boxes.php:263
+msgid "alignment"
+msgstr "alignment"
+
+#: .././inc/meta_boxes.php:283
+msgid "autoAdvance"
+msgstr "autoAdvance"
+
+#: .././inc/meta_boxes.php:303
+msgid "barDirection"
+msgstr "barDirection"
+
+#: .././inc/meta_boxes.php:323
+msgid "barPosition"
+msgstr "barPosition"
+
+#: .././inc/meta_boxes.php:343
+msgid "cols"
+msgstr "cols"
+
+#: .././inc/meta_boxes.php:351
+msgid "easing"
+msgstr "easing"
+
+#: .././inc/meta_boxes.php:369
+msgid "fx"
+msgstr "fx"
+
+#: .././inc/meta_boxes.php:387
+msgid "gridDifference"
+msgstr "gridDifference"
+
+#: .././inc/meta_boxes.php:396
+msgid "height ( in %)"
+msgstr "height ( dalam  %)"
+
+#: .././inc/meta_boxes.php:404
+msgid "hover"
+msgstr "hover"
+
+#: .././inc/meta_boxes.php:424
+msgid "loader"
+msgstr "loader"
+
+#: .././inc/meta_boxes.php:444
+msgid "loaderBgColor"
+msgstr "loaderBgColor"
+
+#: .././inc/meta_boxes.php:453
+msgid "loaderColor"
+msgstr "loaderColor"
+
+#: .././inc/meta_boxes.php:462
+msgid "loaderOpacity"
+msgstr "loaderOpacity"
+
+#: .././inc/meta_boxes.php:471
+msgid "loaderPadding"
+msgstr "loaderPadding"
+
+#: .././inc/meta_boxes.php:480
+msgid "loaderStroke"
+msgstr "loaderStroke"
+
+#: .././inc/meta_boxes.php:489
+msgid "minHeight ( in pixel )"
+msgstr "minHeight ( dalam pixel )"
+
+#: .././inc/meta_boxes.php:498
+msgid "mobileAutoAdvance"
+msgstr "mobileAutoAdvance"
+
+#: .././inc/meta_boxes.php:518
+msgid "mobileEasing"
+msgstr "mobileEasing"
+
+#: .././inc/meta_boxes.php:536
+msgid "mobileFx"
+msgstr "mobileFx"
+
+#: .././inc/meta_boxes.php:554
+msgid "mobileNavHover"
+msgstr "mobileNavHover"
+
+#: .././inc/meta_boxes.php:574
+msgid "navigation"
+msgstr "navigation"
+
+#: .././inc/meta_boxes.php:594
+msgid "navigationHover"
+msgstr "navigationHover"
+
+#: .././inc/meta_boxes.php:614
+msgid "opacityOnGrid"
+msgstr "opacityOnGrid"
+
+#: .././inc/meta_boxes.php:634
+msgid "overlayer"
+msgstr "overlayer"
+
+#: .././inc/meta_boxes.php:654
+msgid "pagination"
+msgstr "pagination"
+
+#: .././inc/meta_boxes.php:674
+msgid "pauseOnClick"
+msgstr "pauseOnClick"
+
+#: .././inc/meta_boxes.php:694
+msgid "pieDiameter"
+msgstr "pieDiameter"
+
+#: .././inc/meta_boxes.php:703
+msgid "piePosition"
+msgstr "piePosition"
+
+#: .././inc/meta_boxes.php:723
+msgid "playPause"
+msgstr "playPause"
+
+#: .././inc/meta_boxes.php:743
+msgid "portrait"
+msgstr "portrait"
+
+#: .././inc/meta_boxes.php:763
+msgid "rows"
+msgstr "rows"
+
+#: .././inc/meta_boxes.php:771
+msgid "slicedCols"
+msgstr "slicedCols"
+
+#: .././inc/meta_boxes.php:780
+msgid "slicedRows"
+msgstr "slicedRows"
+
+#: .././inc/meta_boxes.php:789
+msgid "slideOn"
+msgstr "slideOn"
+
+#: .././inc/meta_boxes.php:809
+msgid "thumbnails"
+msgstr "thumbnails"
+
+#: .././inc/meta_boxes.php:829
+msgid "time"
+msgstr "time"
+
+#: .././inc/meta_boxes.php:837
+msgid "transPeriod"
+msgstr "transPeriod"
+
+#: .././inc/pages/documentation.php:20 .././phc-camera.php:40
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: .././inc/pages/documentation.php:33
+msgid "Your donation keep me to maintain and make it free of bug."
+msgstr "Donasi anda membantu saya memelihara dan membuat-nya bebas dari bug."
+
+#: .././inc/pages/documentation.php:38
+msgid "How to Use"
+msgstr "Bagaimana Menggunakannya"
+
+#: .././inc/pages/documentation.php:39
+msgid "Settings Page"
+msgstr "Halaman Pengaturan"
+
+#: .././inc/pages/documentation.php:40
+msgid "Available Hooks"
+msgstr "Hooks yang Tersedia"
+
+#: .././inc/pages/documentation.php:41
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: .././inc/pages/documentation.php:44
+msgid "Add Camera into post/page."
+msgstr "Tambah Camera kedalam post/page."
+
+#: .././inc/pages/documentation.php:47
+msgid "Goto Camera &gt; Add New Slideshow."
+msgstr "Pilih Camera &gt; Add New Slideshow."
+
+#: .././inc/pages/documentation.php:50
+msgid "Enter Title. Ex: Camera Slider."
+msgstr "Masukan Judul, Contoh: Camera Slider."
+
+#: .././inc/pages/documentation.php:56
+msgid ""
+"Click Camera Slideshow Accordion to set images for slideshow. Click New "
+"Image to add image for Camera."
+msgstr ""
+"Klik Camera Slideshow Accordion untuk mengatur gambar-gambar untuk "
+"slideshow. Klik New Image untuk menambah gambar pada Camera."
+
+#: .././inc/pages/documentation.php:62
+msgid ""
+"Click Image 1 to display content. Click Select Image to show Media Uploader."
+msgstr ""
+"Klik Gambar 1 untuk menampilkan content. Klik Select Image untuk menampilkan "
+"Media Uploader."
+
+#: .././inc/pages/documentation.php:69
+msgid ""
+"Upload images on Upload Files Tab. Then click Select Files button. Select "
+"images which you want to upload. If you've already upload your images. Click "
+"on Media Library Tab then select the image"
+msgstr ""
+"Upload gambar pada Upload Files Tab. Lalu click Select Files button. Pilih "
+"gambar-gambar yang ingin di-upload. Jika kau lebih dulu meng-upload gambar. "
+"Klik pada Media Library Tab lalu pilih gambar."
+
+#: .././inc/pages/documentation.php:76
+msgid ""
+"Set Caption for the image, you can input it with Text, HTML, also Video. See "
+"the following images:"
+msgstr ""
+"Atur Judul untuk gambar, kau bisa mengisi-nya dengan Teks, HTML, juga Video. "
+"Lihat gambar-gambar berikut:"
+
+#: .././inc/pages/documentation.php:83
+msgid "Set caption effects for the caption from the selectbox."
+msgstr "Atur Efek Judul untuk Judul dari selectbox."
+
+#: .././inc/pages/documentation.php:89
+msgid "Do step 3 - step 7 to add image for the Slideshow."
+msgstr "Lakukan langkah 3 - langkah 7 untuk menambah gambar pada Slideshow."
+
+#: .././inc/pages/documentation.php:92
+msgid ""
+"Set Camera Properties for the Slideshow. For Example change thumbnail to "
+"true so the thumbnail is shown."
+msgstr ""
+"Atur Camera Properties untuk Slideshow. Contoh: merubah thumbnail menjadi "
+"true jadi thumbnail tampil / muncul."
+
+#: .././inc/pages/documentation.php:99
+msgid "Click Publish Button."
+msgstr "Klik Button Publish."
+
+#: .././inc/pages/documentation.php:102
+msgid ""
+"Goto Camera to view all of your Slideshow. You can add it into your post or "
+"page, just copy shortcode syntax for post / page on Shortcode column. Then "
+"you will get your Camera on your post / page."
+msgstr ""
+"Pilih Camera untuk menampilkan semua dari Slideshow-mu. Kau bisa menambahkan-"
+"nya kedalam post/page, copy saja shortcode syntax untuk post / page pada "
+"Shortcode column. Lalu kau akan memperoleh Camera Slider pada post / page."
+
+#: .././inc/pages/documentation.php:108
+msgid ""
+"Goto Posts &gt; All Posts. Then click edit on specific post. You can create "
+"new post / page later, I use edit post just for example."
+msgstr ""
+"Pilih Posts &gt; All Posts. Lalu klik edit pada post tertentu. Kau bisa "
+"membuat post / page nanti, Saya menggunakan edit post untuk contoh."
+
+#: .././inc/pages/documentation.php:114
+msgid "Add Camera shortcode like the following image."
+msgstr "Tambahkan Camera shortcode seperti gambar berikut."
+
+#: .././inc/pages/documentation.php:121
+msgid ""
+"Click Update. Then click View Post button to check Camera Slider is shown on "
+"your post. You should see display of the post like the following image."
+msgstr ""
+"Klik Update. Lalu klik button View Post untuk mengecek Camera Slider "
+"ditampilkan pada post-mu. Kau seharusnya melihat tampilan post seperti "
+"gambar berikut."
+
+#: .././inc/pages/documentation.php:127
+msgid "Add Camera into widget."
+msgstr "Tambahkan Camera kedalam widget."
+
+#: .././inc/pages/documentation.php:130
+msgid "Goto Appearance &gt; Widgets."
+msgstr "Pilih Appearance &gt; Widgets."
+
+#: .././inc/pages/documentation.php:133
+msgid ""
+"Use Widget Text. Enter Title. Ex: Camera Widget. Then add shortcode for "
+"widget into content / textarea."
+msgstr ""
+"Gunakan Widget Text. Masukan Judul, Contoh: Camera Widget. Lalu tambahkan "
+"shortcode untuk widget kedalam content / textarea."
+
+#: .././inc/pages/documentation.php:140
+msgid "Click Save Button."
+msgstr "Klik Button Save."
+
+#: .././inc/pages/documentation.php:143
+msgid "You will see the following display on your Homepage now."
+msgstr "Kau akan melihat tampilan berikut pada Homepage-mu sekarang."
+
+#: .././inc/pages/documentation.php:150
+msgid "Add Camera into PHP file."
+msgstr "Tambahkan Camera kedalam PHP file."
+
+#: .././inc/pages/documentation.php:153
+msgid "You can do it with do_shortcode syntax."
+msgstr "Kau bisa melakukannya dengan do_shortcode syntax."
+
+#: .././inc/pages/documentation.php:157
+#, php-format
+msgid "Syntax %1$s. You can get shortcode syntax on Camera Slider Page."
+msgstr ""
+"Syntax %1$s. Kau bisa memperoleh shortcode syntax pada Halaman Camera Slider."
+
+#: .././inc/pages/documentation.php:159 .././inc/pages/documentation.php:207
+msgid "Example"
+msgstr "Contoh"
+
+#: .././inc/pages/documentation.php:168
+msgid "Goto Camera &gt; Settings."
+msgstr "Pilih Camera &gt; Settings."
+
+#: .././inc/pages/documentation.php:171
+msgid ""
+"You can set image size for Camera on Post / Page and Widget. It make "
+"performance better. Set it with numeric value for small and large image."
+msgstr ""
+"Kau bisa mengatur ukuran gambar untuk Camera  pada Post / Page dan Widget. "
+"Itu membuat performa lebih baik. Atur dengan nomer untuk gambar kecil dan "
+"besar."
+
+#: .././inc/pages/documentation.php:176
+msgid "Hooks Action"
+msgstr "Hooks Action"
+
+#: .././inc/pages/documentation.php:180
+msgid ""
+"You can use it to load more javascripts and styles for Camera Slider on "
+"Widget."
+msgstr ""
+"Kau bisa menggunakannya untuk me-load javascripts dan styles untuk Camera "
+"Slider on Widget."
+
+#: .././inc/pages/documentation.php:185
+msgid ""
+"You can use it to load more javascripts and styles for Camera Slider on "
+"Post / Page."
+msgstr ""
+"Kau bisa menggunakannya untuk me-load javascripts dan styles untuk Camera "
+"Slider on Post / Page."
+
+#: .././inc/pages/documentation.php:190
+msgid "You can use it to do any functionality before Camera Slider sripts run"
+msgstr ""
+"Kau bisa menggunakannya untuk melakukan functionality apapun sebelum sripts "
+"Camera Slider berjalan"
+
+#: .././inc/pages/documentation.php:195
+msgid "You can use it to do any functionality after Camera Slider sripts run"
+msgstr ""
+"Kau bisa menggunakannya untuk melakukan functionality apapun setelah sripts "
+"Camera Slider berjalan"
+
+#: .././inc/pages/documentation.php:199
+msgid "Hooks Filter"
+msgstr "Hooks Filter"
+
+#: .././inc/pages/documentation.php:203
+msgid ""
+"You can use it to modify Camera Properties. Parameter contain Camera "
+"Properties"
+msgstr ""
+"Kau bisa menggunakannya untuk merubah Camera Properties. Parameter berisi "
+"Camera Properties"
+
+#: .././inc/pages/documentation.php:245
+msgid ""
+"Help me to Translate it. I provide POT file on languages folder. You can use "
+"translation application such as POEdit and translate it to your locale "
+"language and save it into PO file and MO file"
+msgstr ""
+"Bantu saya menerjemahkannya. Saya menyediakan file POT pada folder "
+"languages. Kau bisa menggunakan aplikasi terjemahan seperti POEdit dan "
+"menerjemahkannya ke bahasa lokal-mu dan menyimpannya kedalam file PO dan "
+"file MO."
+
+#: .././inc/pages/documentation.php:247
+msgid "You can contribute to make it bigger with your support guys !"
+msgstr ""
+"Kau bisa berkontribusi untuk membuatnya lebih besar dengan dukunganmu kawan-"
+"kawan !"
+
+#: .././inc/pages/settings.php:37 .././phc-camera.php:35
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: .././inc/pages/settings.php:41
+msgid "Image Size On Post / Page"
+msgstr "Ukuran Gambar pada Post / Page"
+
+#: .././inc/pages/settings.php:43
+msgid "Image Size On Widget"
+msgstr "Ukuran Gambar pada Widget"
+
+#: .././inc/pages/settings.php:51 .././inc/pages/settings.php:93
+msgid "Small Image"
+msgstr "Gambar Kecil"
+
+#: .././inc/pages/settings.php:60 .././inc/pages/settings.php:79
+#: .././inc/pages/settings.php:102 .././inc/pages/settings.php:121
+msgid "width"
+msgstr "lebar"
+
+#: .././inc/pages/settings.php:64 .././inc/pages/settings.php:83
+#: .././inc/pages/settings.php:106 .././inc/pages/settings.php:125
+msgid "height"
+msgstr "tinggi"
+
+#: .././inc/pages/settings.php:70 .././inc/pages/settings.php:112
+msgid "Large Image"
+msgstr "Gambar Besar"
+
+#: .././inc/pages/settings.php:133
+msgid "Save"
+msgstr "Simpan"
+
+#: .././inc/post_type.php:21 .././inc/post_type.php:22
+msgid "Camera"
+msgstr "Camera"
+
+#: .././inc/post_type.php:23 .././inc/post_type.php:24
+msgid "Add New Slideshow"
+msgstr "Tambah Slideshow Baru"
+
+#: .././inc/post_type.php:25
+msgid "Edit Slideshow"
+msgstr "Edit Slideshow"
+
+#: .././inc/post_type.php:26
+msgid "New Slideshow"
+msgstr "Slideshow Baru"
+
+#: .././inc/post_type.php:27
+msgid "View Slideshow"
+msgstr "Tampilkan Slideshow"
+
+#: .././inc/post_type.php:28
+msgid "Search Slideshow"
+msgstr "Cari Slideshow"
+
+#: .././inc/post_type.php:29
+msgid "No Slideshow Found"
+msgstr "Tidak ada Slideshow yang ditemukan"
+
+#: .././inc/post_type.php:30
+msgid "No Slideshow Found In Trash"
+msgstr "Tidak ada Slideshow yang ditemukan didalam Trash"
