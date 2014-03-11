@@ -14,7 +14,7 @@ function phc_camera_js() {
 	// Output admin-ajax.php URL with same protocol as current page
 	$params = array(
 	'ajaxurl'=>admin_url('admin-ajax.php', $protocol),
-	'loading_text'=>'<h1>Loading...</h1>',
+	'loading_text'=>'',
 	'theme_url'=>PHC_CAMERA_THEME_URL,
 	);
 	wp_localize_script(PHC_CAMERA_ID_SCRIPT . '_admin_js', 

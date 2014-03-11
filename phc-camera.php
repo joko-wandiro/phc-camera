@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: Camera Slider
-=======
 Plugin URI: https://github.com/joko-wandiro/wp-camera
 Description: jQuery slideshow with many effects, transitions, easy to customize, using canvas and mobile ready, based on jQuery 1.4+. You can add it into post / page / widget Wordpress.
 Version: 1.0.0

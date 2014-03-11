@@ -1,6 +1,6 @@
 ( function($){
 $(document).ready( function(){
-    Feedback= {
+    PHC_Camera_Feedback= {
 		selector: {},
         'default': function(data){
 			console.log(data);
@@ -10,13 +10,13 @@ $(document).ready( function(){
         },
     }
 	
-    Ajax= {		
+    PHC_Camera_Ajax= {		
 		'form': '',
         'type': "default",
 		'extra': "default",
 		container: '',
         send: function(url, data){
-            AjaxObj= this;
+            PHC_Camera_AjaxObj= this;
             $.ajax({
 				async: false,
                 dataType: 'json',
@@ -24,14 +24,14 @@ $(document).ready( function(){
                 url: url,
                 data: data,
                 beforeSend: function(){
-					AjaxObj.blockUI();
+					PHC_Camera_AjaxObj.blockUI();
                 },
                 complete: function(){
-					AjaxObj.unBlock();
+					PHC_Camera_AjaxObj.unBlock();
                 },
                 success: function(data){
-                    type= AjaxObj.type;
-                    Feedback[type](data);
+                    type= PHC_Camera_AjaxObj.type;
+                    PHC_Camera_Feedback[type](data);
                 }
             });
         },
@@ -50,7 +50,7 @@ $(document).ready( function(){
 		},
 	}
 
-	PHC_Accordion= {
+	PHC_Camera_Accordion= {
 		setting_accordion: function($obj){
 	    $obj
 		.accordion({
@@ -67,7 +67,7 @@ $(document).ready( function(){
 		ui.item.children("h3").triggerHandler("focusout");
 		console.log(event);
 		console.log(ui);
-		PHC_Accordion.sorting("Image");
+		PHC_Camera_Accordion.sorting("Image");
 		}
 		});
 		},
@@ -82,14 +82,13 @@ $(document).ready( function(){
 		}
 	}
 	
-	PHC_Accordion.setting_accordion($('#camera-accordion'));
-	$('#btn-new-image').live('click', function(){
+	PHC_Camera_Accordion.setting_accordion($('#camera-accordion'));
+	$('#camera-extras #btn-new-image').live('click', function(){
 		$template_form= $('.template-camera-form').clone();
 		template_form_html= $template_form.html();
 		$camera_accordion= $('#camera-accordion');
 		number_of_section= $('.widget', $camera_accordion).length;
 		number_of_section++;
-		console.log(number_of_section);
 		// Replace {image_number}
 		$template_form.html(template_form_html.replace(/{image_number}/g, number_of_section));
 		// Add New Widget
@@ -98,21 +97,13 @@ $(document).ready( function(){
 		.find('input, select, textarea').removeAttr('disabled');
 		$camera_accordion.accordion('destroy');
 		// Setting Accordion Again
-		PHC_Accordion.setting_accordion($camera_accordion);
+		PHC_Camera_Accordion.setting_accordion($camera_accordion);
 	});
 	
-	$('.btn-remove-image').live('click', function(){
+	$('#camera-accordion .btn-remove-image').live('click', function(){
 		$(this).parent().parent().remove();
-		PHC_Accordion.sorting("Image");
+		PHC_Camera_Accordion.sorting("Image");
 	});
-
-	str= "";
-	$('#jquery-easing option').each( function(i, val){
-//		console.log(i);
-//		console.log($(val).text());
-		str+= $(val).text() + ",";
-	})
-	console.log(str);
 })
 })(jQuery);
 
